@@ -24,17 +24,15 @@ Probablemente voy a tener opiniones sobre tu código y espero que tengas opinion
 
 ## Feedback
 
-Si tienes feedback para mi, quiero tenerlo. Puede ser algo que te haya gustado y que te gustaría ver más, algo que creas que podría hacer mejor, quizás pienses que metí la pata, o quizás es algo que no cae en ninguna de las categorías anteriores. Incluso si crees que no es algo que valga la pena compartir, envíalo igual por favor. Y si crees que sea algo que no quiera oír, me gustaría entender por qué te sientes de esa manera.
+Si tienes feedback para mi, me gustaría tenerlo. Puede ser algo que te haya gustado y que te gustaría ver más, algo que creas que podría hacer mejor, quizás pienses que metí la pata, o quizás es algo que no cae en ninguna de las categorías anteriores. Incluso si crees que no es algo que valga la pena compartir, yo creo que vale la pena compartirlo. Y si crees que sea algo que no quiera oír, me gustaría entender por qué crees eso.
 
-Si puedes entregarme este feedback en persona, preferiría eso. Pero si te sientes más cómodo a través de un correo o un mensaje de Slack, preferiría eso a no recibirlo.
+Preferiría recibir el feedback en persona, pero si te sientes más cómodo a través de un correo o un mensaje de Slack, prefiero eso a no recibirlo. Y si no te sientes cómodo entregándome el feedback directamente, me encantaría que se lo entregaras a uno de los founders (@chaq, @dani, @osk) para que ellos me puedan transmitir el mensaje de forma anónima y así trabajar en ello.
 
-Si no te sientes cómodo entregándome feedback, me encantaría que se lo entregaras a uno de los founders (@chaq, @dani, @osk) para que ellos me puedan transmitir el mensaje de forma anónima y así trabajar en ello.
-
-De forma similar, si tienes feedback para un miembro del equipo, te aconsejo que se lo entregues directamente; pero si no te sientes cómodo con eso, entonces siéntete con toda la libertad de entregarme el mensaje y yo me encargaré de transmitir tus comentarios de forma anónima.
+De forma similar, si tienes feedback para cualquier colega, te aconsejo que se lo entregues directamente (incluso a los founders); pero si no te sientes cómodo con eso, entonces puedes entregarme el mensaje y yo me encargaré de transmitir tus comentarios de forma anónima.
 
 ## Reuniones
 
-Pondré una reunión cada tres meses en tu calendario para un "uno-a-uno" (me encantaría poder hacer esto de forma semanal pero el tamaño del equipo hace que sea una tarea imposible). Si necesitas más tiempo, házmelo saber y haré los ajustes necesarios. Probablemente la primera reunión que tengamos será en tu induccioón y de una hora de duración para asegurarme de que entiendas nuestras metas y otros temas introductorios.
+Pondré una reunión cada tres meses en tu calendario para un "uno-a-uno" (me encantaría poder hacer esto de forma mensual o incluso semanal pero el tamaño del equipo hace que sea una tarea imposible). Si necesitas más tiempo, házmelo saber y haré los ajustes necesarios. Probablemente la primera reunión que tengamos será en tu inducción y de una hora de duración para asegurarme de que entiendas nuestras metas y otros temas introductorios.
 
 Los "uno-a-uno" son _tu_ tiempo. Probablemente quiera discutir algunas cosas contigo, pero esta es la oportunidad para hacerme saber como has estado, lo que necesitas, lo que te gustaría que fuera diferente, como te sientes con respecto al equipo y tus pares, cuales son tus metas profesionales, etc. Estas son conversaciones que no tendrías conmigo en el día a día. Si quieres darme un _status update_ y contarme las cosas en las que has estado trabajando o las _blockers_ que puedas tener, estoy ok con eso, pero creo que ese tipo de cosas es mejor que las discutamos en persona, por Slack, en GitHub o incluso en una reunión diferente.
 
@@ -52,15 +50,19 @@ Mantengo una política de transparencia total, y mi agenda está actualizada y d
 
 ### Comunicación fuera del horario de trabajo
 
-En la medida que trabajemos juntos voy a empezar a tener una idea aproximada de cuales son tus horarios, y haré un esfuerzo para no enviarte mensajes fuera de esas horas ya que la mayoría tiene las notificaciones de Slack activadas en sus dispositivos. Algunas veces te enviaré correos fuera de tus horas de trabajo (especialmente si estamos en diferentes zonas horarias) dado que los correos suelen notificar de una forma menos intrusiva. No deberías sentirte obligado a leer o responder cualquier mensaje que recibas de mi fuera de tus horas de trabajo. Y si en algún momento empiezas a recibir mensajes de mi con mayor frecuencia, por favor házmelo saber dado que puede que haya malentendido tus horas de trabajo.
+En la medida que trabajemos juntos voy a empezar a tener una idea aproximada de cuales son tus horarios, y haré un esfuerzo para no enviarte mensajes fuera de esas horas ya que la mayoría tiene las notificaciones de Slack activadas en sus dispositivos. Algunas veces te enviaré correos fuera de tus horas de trabajo (especialmente si estamos en diferentes zonas horarias) dado que los correos suelen notificar de una forma menos intrusiva.
 
-Si por algun motivo necesito algo de ti fuera de tus horas normales de trabajo, te llamaré. Esto es muy raro que ocurra (si es que ocurre).
+No deberías sentirte obligado a leer o responder cualquier mensaje que recibas de mi fuera de tus horas de trabajo. Y si en algún momento empiezas a recibir mensajes de mi con mayor frecuencia, por favor házmelo saber dado que puede que haya malentendido tus horas de trabajo.
+
+Si por algun motivo necesito algo de ti fuera de tus horas normales de trabajo, tendré que llamarte directamente. Esto es muy raro que ocurra (si es que ocurre).
 
 ## Si necesitas algo de mi
 
-1.  Acércate a mi puesto. Si tengo audífonos, lo más probable es que esté escuchando música, no es una señal de que no quiera ser interrumpido. Siéntete libre de llamar mi atención en cualquier momento, si en ese momento no puedo discutir del tema lo más probable es que te envíe una notificación de Google Calendar para discutir del tema.
-2.  Háblame por Slack o mándame un correo. Incluso si quieres tener una reunión en persona, mándame un mensaje para que acordemos un tiempo para hablar de lo que necesites hablar. Si quieres hablar directamente por Slack o mail, también estoy ok con eso.
-3.  Agenda directamente algo en Google Calendar. Mi agenda completa está disponible para toda la organización, por lo que puedes saber exactmente si voy a estar disponible o no en todo momento. Si ves que he bloqueado mi día para trabajar en algo (usualmente con el título "Locked"), el bloqueo no aplica para este tipo de conversaciones, es mas que nada para evitar que me llenen de reuniones que no sean urgentes, si necesitas hablar y tengo este tipo de bloqueos, siéntete libre de agendar.
+Hay varias opciones, puedes...
+
+1.  ... acercarte a mi puesto. Si tengo audífonos, lo más probable es que esté escuchando música, no es una señal de que no quiera ser interrumpido. Siéntete libre de llamar mi atención en cualquier momento, si en ese momento no puedo discutir del tema lo más probable es que te envíe una notificación de Google Calendar para discutir del tema.
+2.  ... hablarme por Slack o enviar un correo. Incluso si quieres tener una reunión en persona, mándame un mensaje para que acordemos un tiempo para hablar de lo que necesites hablar. Si quieres hablar directamente por Slack o mail, también estoy ok con eso.
+3.  ... agendar un horario en mi Google Calendar. Mi agenda completa está disponible para toda la organización, por lo que puedes saber exactmente si voy a estar disponible o no en todo momento. Si ves que he bloqueado mi día para trabajar en algo (usualmente con el título "Locked"), el bloqueo no aplica para este tipo de conversaciones, es mas que nada para evitar que me llenen de reuniones que no sean urgentes, si necesitas hablar y tengo este tipo de bloqueos, siéntete libre de agendar.
 
 ## Sobre ti
 
