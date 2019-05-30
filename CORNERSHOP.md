@@ -56,13 +56,13 @@ No deberías sentirte obligado a leer o responder cualquier mensaje que recibas 
 
 Si por algun motivo necesito algo de ti fuera de tus horas normales de trabajo, tendré que llamarte directamente. Esto es muy raro que ocurra (si es que ocurre).
 
-## Si necesitas algo de mi
+## Si puedo ayudarte en algo
 
-Hay varias opciones, puedes...
+Hay varias formas en las que podemos conversar en el día a día.
 
-1.  *... acercarte a mi puesto*. Si tengo audífonos, lo más probable es que esté escuchando música, no es una señal de que no quiera ser interrumpido. Siéntete libre de llamar mi atención en cualquier momento, si en ese momento no puedo discutir del tema lo más probable es que te envíe una notificación de Google Calendar para discutir del tema.
-2.  *... hablarme por Slack o enviar un correo*. Incluso si quieres tener una reunión en persona, mándame un mensaje para que acordemos un tiempo para hablar de lo que necesites hablar. Si quieres hablar directamente por Slack o mail, también estoy ok con eso.
-3.  *... agendar un horario en mi calendario*. Mi agenda está disponible en Google Calendar para toda la organización, por lo que puedes saber exactmente si voy a estar disponible o no en todo momento. Si ves que he bloqueado mi día para trabajar en algo (usualmente con el título "Locked"), el bloqueo no aplica para este tipo de conversaciones, es mas que nada para evitar que me llenen de reuniones que no sean urgentes, si necesitas hablar y tengo este tipo de bloqueos, siéntete libre de agendar.
+1.  **Puedes acercarte a mi puesto**. Si tengo audífonos, lo más probable es que esté escuchando música, no es una señal de que no quiera ser interrumpido. Siéntete libre de llamar mi atención en cualquier momento, si en ese momento no puedo discutir del tema lo más probable es que te envíe una notificación de Google Calendar para discutir del tema.
+2.  **Puedes hablar por Slack o enviar un correo**. Incluso si quieres tener una reunión en persona, mándame un mensaje para que acordemos un tiempo para hablar de lo que necesites hablar. Si quieres hablar directamente por Slack o mail, también estoy ok con eso.
+3.  **Puedes agendar un horario para conversar en otro momento**. Mi agenda está disponible en Google Calendar para toda la organización, por lo que puedes saber exactmente si voy a estar disponible o no en todo momento. Si ves que he bloqueado mi día para trabajar en algo (usualmente con el título "Locked"), el bloqueo no aplica para este tipo de conversaciones, es mas que nada para evitar que me llenen de reuniones que no sean urgentes, si necesitas hablar y tengo este tipo de bloqueos, siéntete libre de agendar.
 
 ## Sobre ti
 
