@@ -34,13 +34,9 @@ De forma similar, si tienes feedback para cualquier colega, te aconsejo que se l
 
 Pondré una reunión cada tres meses en tu calendario para un "uno-a-uno" (me encantaría poder hacer esto de forma mensual o incluso semanal pero el tamaño del equipo hace que sea una tarea imposible). Si necesitas más tiempo, házmelo saber y haré los ajustes necesarios. Probablemente la primera reunión que tengamos será en tu inducción y de una hora de duración para asegurarme de que entiendas nuestras metas y otros temas introductorios.
 
-Los "uno-a-uno" son _tu_ tiempo. Probablemente quiera discutir algunas cosas contigo, pero esta es la oportunidad para hacerme saber como has estado, lo que necesitas, lo que te gustaría que fuera diferente, como te sientes con respecto al equipo y tus pares, cuales son tus metas profesionales, etc. Estas son conversaciones que no tendrías conmigo en el día a día. Si quieres darme un _status update_ y contarme las cosas en las que has estado trabajando o las _blockers_ que puedas tener, estoy ok con eso, pero creo que ese tipo de cosas es mejor que las discutamos en persona, por Slack, en GitHub o incluso en una reunión diferente.
+Los "uno-a-uno" son _tu_ tiempo. Probablemente voy a querer discutir algunas cosas contigo, pero ésta es la oportunidad para hacerme saber cómo has estado, lo que necesitas, lo que te gustaría que fuera diferente, cómo te sientes con respecto al equipo y tus pares, cuáles son tus metas profesionales, etc. Estas son conversaciones que no tendrías conmigo en el día a día. Si quieres darme un _status update_ y contarme las cosas en las que has estado trabajando o las _blockers_ que puedas tener, estoy ok con eso, pero creo que ese tipo de cosas es mejor que las discutamos en persona, por Slack, en GitHub o incluso en una reunión diferente.
 
 Te recomiendo que escribas algunas cosas durante el mes de las que te gustaría hablar, dado que muchas veces es difícil pensar o recordar cosas en el momento. Si tienes algunas cosas que te gustaría discutir pero que por alguna razón te cuesta conversar de ellas, creo que lo mejor es que me envíes una suerte de agenda un par de dias antes para ayudar a que el tema salga en nuestra conversación. Y si no sabes de lo que quieres hablar, también podemos hablar de eso.
-
-### Performance
-
-Si llego a tener preocupaciones sobre tu rendimiento en Cornershop, te lo haré saber. Si te preocupa esto, házmelo saber.
 
 ## Horarios
 
@@ -54,7 +50,7 @@ En la medida que trabajemos juntos voy a empezar a tener una idea aproximada de 
 
 No deberías sentirte obligado a leer o responder cualquier mensaje que recibas de mi fuera de tus horas de trabajo. Y si en algún momento empiezas a recibir mensajes de mi con mayor frecuencia, por favor házmelo saber dado que puede que haya malentendido tus horas de trabajo.
 
-Si por algun motivo necesito algo de ti fuera de tus horas normales de trabajo, tendré que llamarte directamente. Esto es muy raro que ocurra (si es que ocurre).
+Si por algún motivo necesito algo de ti fuera de tus horas normales de trabajo, tendré que llamarte directamente. Esto es muy raro que ocurra (si es que ocurre).
 
 ## Si puedo ayudarte en algo
 
