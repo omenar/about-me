@@ -2,7 +2,7 @@
 
 Me alegro de que te hayas unido a nuestro equipo y espero que tengas una muy buena experiencia con nosotros.
 
-La idea de este documento es para darte un pequeño resumen de lo que deberías esperar de mi como líder técnico. Este documento no pretende reemplazar ningún tipo de interacción en el trabajo. Mi intenció es darte una idea de cómo pienso y cómo trabajo.
+La idea de este documento es para darte un pequeño resumen de lo que deberías esperar de mi como líder técnico. Este documento no pretende reemplazar ningún tipo de interacción en el trabajo. Mi intención es darte una idea de cómo pienso y cómo trabajo.
 
 ## Mi rol
 
@@ -12,9 +12,9 @@ En detalle:
 
 1.  Estoy acá para asegurarme de que seas exitoso y feliz: quiero que mejores tus habilidades técnicas, que avances en tu carrera, disfrutes tu trabajo y que creas en la misión de nuestro equipo y nuestra organización.
 2.  Estoy acá para asegurarme de que nuestros equipos sean exitosos y que avancen en la dirección correcta. Trato de estar consciente de los diferentes problemas y metas de las "verticales", de esa forma me puedo asegurar de que estamos todos alineados y avanzando en la misma dirección.
-3.  Estoy acá para asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización está obtiene lo que necesita de la tecnología que construimos. También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir.
+3.  Estoy acá para asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización obtiene lo que necesita de la tecnología que construimos. También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir.
 4.   Soy últimamente responsable de cualquier cosa que tenga que ver con software en Cornershop, incluyendo (pero no limitado a) análisis, diseño, desarrollo, calidad, seguridad, operaciones, soporte y las interacciones de la tecnología con nuestra organización y nuestros clientes.
-5.  También escribo código (generalmente, fuera del horario de oficina).
+5.  También escribo código.
 
 Lo anterior está en un orden aproximado de importancia. Si no eres exitoso o feliz, nuestro equipo no será exitoso (o feliz). Si alguno de nuestros equipos está teniendo problemas, lo más probable es que escribir código no sea mi primera prioridad.
 
