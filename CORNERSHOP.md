@@ -2,7 +2,7 @@
 
 Me alegro de que te hayas unido a nuestro equipo y espero que tengas una muy buena experiencia con nosotros.
 
-La idea de este documento es para darte un pequeño resumen de lo que deberías esperar de mi como líder técnico. Este documento no pretende reemplazar ningún tipo de interacción en el trabajo. Mi intención es darte una idea de cómo pienso y cómo trabajo.
+La idea de este documento es para darte un pequeño resumen de lo que deberías esperar de mi como líder técnico. Este documento no pretende reemplazar ningún tipo de interacción en el trabajo. Mi intención es darte una idea de cómo pienso y trabajo.
 
 ## Mi rol
 
