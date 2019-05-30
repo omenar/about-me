@@ -64,10 +64,6 @@ Hay varias formas en las que podemos conversar en el día a día.
 2.  **Puedes hablar por Slack o enviar un correo**. Incluso si quieres tener una reunión en persona, mándame un mensaje para que acordemos un tiempo para hablar de lo que necesites hablar. Si quieres hablar directamente por Slack o mail, también estoy ok con eso.
 3.  **Puedes agendar un horario para conversar en otro momento**. Mi agenda está disponible en Google Calendar para toda la organización, por lo que puedes saber exactmente si voy a estar disponible o no en todo momento. Si ves que he bloqueado mi día para trabajar en algo (usualmente con el título "Locked"), el bloqueo no aplica para este tipo de conversaciones, es mas que nada para evitar que me llenen de reuniones que no sean urgentes, si necesitas hablar y tengo este tipo de bloqueos, siéntete libre de agendar.
 
-## Sobre ti
-
-Este documento está diseñado para explicar sobre cómo trabajo y lo que deberías esperar de mí. En algún punto deberíamos discutir las expectativas que tengo sobre ti y el resto del equipo en cuanto empecemos a trabajar juntos.
-
 ## Correcciones
 
 Si algo de lo que he descrito más arriba no te cuadra, puedes abrir un PR/issue, o si te sientes más cómodo, podemos discutirlo en persona en alguno de nuestros "uno-a-uno", o por Slack.
