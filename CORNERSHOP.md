@@ -10,10 +10,10 @@ TL;DR mi misión es asegurarme de que tengas la mejor experiencia profesional po
 
 En detalle:
 
-1.  Estoy acá para asegurarme de que seas exitoso y feliz: quiero que mejores tus habilidades técnicas, que avances en tu carrera, disfrutes tu trabajo y que creas en la misión de nuestro equipo y nuestra organización.
-2.  Estoy acá para asegurarme de que nuestros equipos sean exitosos y que avancen en la dirección correcta. Trato de estar consciente de los diferentes problemas y metas de las "verticales", de esa forma me puedo asegurar de que estamos todos alineados y avanzando en la misma dirección.
-3.  Estoy acá para asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización obtiene lo que necesita de la tecnología que construimos. También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir.
-4.   Soy últimamente responsable de cualquier cosa que tenga que ver con software en Cornershop, incluyendo (pero no limitado a) análisis, diseño, desarrollo, calidad, seguridad, operaciones, soporte y las interacciones de la tecnología con nuestra organización y nuestros clientes.
+1.  Quiero asegurarme de que seas exitoso y feliz: quiero que mejores tus habilidades técnicas, que avances en tu carrera, disfrutes tu trabajo y que creas en la misión de nuestro equipo y nuestra organización.
+2.  Quiero asegurarme de que nuestros equipos sean exitosos y que avancen en la dirección correcta. Trato de estar consciente de los diferentes problemas y metas de las "verticales", de esa forma me puedo asegurar de que estamos todos alineados y avanzando en la misma dirección.
+3.  Intento asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización obtiene lo que necesita de la tecnología que construimos. También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir.
+4.  Soy últimamente responsable de cualquier cosa que tenga que ver con software en Cornershop, incluyendo (pero no limitado a) análisis, diseño, desarrollo, calidad, seguridad, operaciones, soporte y las interacciones de la tecnología con nuestra organización y nuestros clientes.
 5.  También escribo código.
 
 Lo anterior está en un orden aproximado de importancia. Si no eres exitoso o feliz, nuestro equipo no será exitoso (o feliz). Si alguno de nuestros equipos está teniendo problemas, lo más probable es que escribir código no sea mi primera prioridad.
@@ -24,19 +24,17 @@ Probablemente voy a tener opiniones sobre tu código y espero que tengas opinion
 
 ## Feedback
 
-Si tienes feedback para mi, házmelo llegar. Puede ser algo que te haya gustado y que te gustaría ver más, algo que creas que podría hacer mejor, quizás pienses que metí la pata, o quizás es algo que no cae en ninguna de las categorías anteriores. Incluso si crees que no es algo que valga la pena compartir, _quiero_ saberlo. Y si crees que sea algo que no quiera oír, me gustaría entender por qué te sientes de esa manera.
+Si tienes feedback para mi, quiero tenerlo. Puede ser algo que te haya gustado y que te gustaría ver más, algo que creas que podría hacer mejor, quizás pienses que metí la pata, o quizás es algo que no cae en ninguna de las categorías anteriores. Incluso si crees que no es algo que valga la pena compartir, envíalo igual por favor. Y si crees que sea algo que no quiera oír, me gustaría entender por qué te sientes de esa manera.
 
-Si puedes entregarme este feedback en persona, preferiría eso. Pero si te sientes más cómodo a través de un correo o un mensaje de Slack, preferiría eso a no recibir tu feedback.
+Si puedes entregarme este feedback en persona, preferiría eso. Pero si te sientes más cómodo a través de un correo o un mensaje de Slack, preferiría eso a no recibirlo.
 
 Si no te sientes cómodo entregándome feedback, me encantaría que se lo entregaras a uno de los founders (@chaq, @dani, @osk) para que ellos me puedan transmitir el mensaje de forma anónima y así trabajar en ello.
 
 De forma similar, si tienes feedback para un miembro del equipo, te aconsejo que se lo entregues directamente; pero si no te sientes cómodo con eso, entonces siéntete con toda la libertad de entregarme el mensaje y yo me encargaré de transmitir tus comentarios de forma anónima.
 
-Si quieres entregar feedback de forma directa pero no estás seguro de cómo hacerlo o si no te sientes cómodo haciendo esto, avísame para conversar sobre esto.
-
 ## Reuniones
 
-Pondré una reunión mensual en tu calendario para un "uno-a-uno" (me encantaría poder hacer esto de forma semanal pero el tamaño del equipo hace que sea una tarea imposible). Si necesitas más tiempo, házmelo saber y haré los ajustes necesarios. Probablemente la primera reunión que tengamos será en tu induccioón y de una hora de duración para asegurarme de que entiendas nuestras metas y otros temas introductorios.
+Pondré una reunión cada tres meses en tu calendario para un "uno-a-uno" (me encantaría poder hacer esto de forma semanal pero el tamaño del equipo hace que sea una tarea imposible). Si necesitas más tiempo, házmelo saber y haré los ajustes necesarios. Probablemente la primera reunión que tengamos será en tu induccioón y de una hora de duración para asegurarme de que entiendas nuestras metas y otros temas introductorios.
 
 Los "uno-a-uno" son _tu_ tiempo. Probablemente quiera discutir algunas cosas contigo, pero esta es la oportunidad para hacerme saber como has estado, lo que necesitas, lo que te gustaría que fuera diferente, como te sientes con respecto al equipo y tus pares, cuales son tus metas profesionales, etc. Estas son conversaciones que no tendrías conmigo en el día a día. Si quieres darme un _status update_ y contarme las cosas en las que has estado trabajando o las _blockers_ que puedas tener, estoy ok con eso, pero creo que ese tipo de cosas es mejor que las discutamos en persona, por Slack, en GitHub o incluso en una reunión diferente.
 
@@ -44,7 +42,7 @@ Te recomiendo que escribas algunas cosas durante el mes de las que te gustaría 
 
 ### Performance
 
-Si llego a tener preocupaciones sobre tu rendimiento en Cornershop, te lo haré saber. Si te preocupa que me preocupe sobre tu rendimiento, por favor, házmelo saber.
+Si llego a tener preocupaciones sobre tu rendimiento en Cornershop, te lo haré saber. Si te preocupa esto, házmelo saber.
 
 ## Horarios
 
