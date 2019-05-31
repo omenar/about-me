@@ -12,7 +12,7 @@ En detalle:
 
 1.  Quiero asegurarme de que seas exitoso y feliz: quiero que mejores tus habilidades técnicas, que avances en tu carrera, disfrutes tu trabajo y que creas en la misión de nuestro equipo y nuestra organización.
 2.  Quiero asegurarme de que nuestros equipos sean exitosos y que avancen en la dirección correcta. Trato de estar consciente de los diferentes problemas y metas de las "verticales", de esa forma me puedo asegurar de que estamos todos alineados y avanzando en la misma dirección.
-3.  Intento asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización obtiene lo que necesita de la tecnología que construimos. También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir.
+3.  Intento asegurarme de que nuestros equipos tienen todo lo que necesitan de otros equipos, y que toda la organización obtiene lo que necesita de la tecnología que construimos (esto incluye dirigir a las personas apropiadas las dudas que cualquier persona pueda tener). También estoy acá para ayudar a que trabajemos en las cosas correctas, lo cual no es necesariamente lo que se nos encomienda construir
 4.  Soy el responsable de cualquier cosa que tenga que ver con software en Cornershop, incluyendo (pero no limitado a) análisis, diseño, desarrollo, calidad, seguridad, operaciones, soporte y las interacciones de la tecnología con nuestra organización y nuestros clientes.
 5.  También escribo código.
 
@@ -43,14 +43,6 @@ Te recomiendo que escribas algunas cosas durante el mes de las que te gustaría 
 Los lunes y martes puedes encontrarme en la oficina entre las 10 AM y las 8 PM, el resto de la semana me retiro antes porque estoy tomando clases de inglés. A veces llego antes y otras veces me voy después, pero esas suelen ser las horas en las que estoy en la oficina. Algunas veces continúo trabajando en las noches después de cenar y algunas veces ocupo parte de mi fin de semana para trabajar en algunos temas en los que tenga especial interés.
 
 Mantengo una política de transparencia total, y mi agenda está actualizada y disponible para toda la organización en Google Calendar.
-
-### Comunicación fuera del horario de trabajo
-
-En la medida que trabajemos juntos voy a empezar a tener una idea aproximada de cuales son tus horarios, y haré un esfuerzo para no enviarte mensajes fuera de esas horas ya que la mayoría tiene las notificaciones de Slack activadas en sus dispositivos. Algunas veces te enviaré correos fuera de tus horas de trabajo (especialmente si estamos en diferentes zonas horarias) dado que los correos suelen notificar de una forma menos intrusiva.
-
-No deberías sentirte obligado a leer o responder cualquier mensaje que recibas de mi fuera de tus horas de trabajo. Y si en algún momento empiezas a recibir mensajes de mi con mayor frecuencia, por favor házmelo saber dado que puede que haya malentendido tus horas de trabajo.
-
-Si por algún motivo necesito algo de ti fuera de tus horas normales de trabajo, tendré que llamarte directamente. Esto es muy raro que ocurra (si es que ocurre).
 
 ## Si puedo ayudarte en algo
 
